@@ -109,6 +109,13 @@ INPUT /home/filip/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
 INPUT /home/filip/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
 INPUT /home/filip/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 INPUT /home/filip/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /home/filip/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /home/filip/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740159381.53597 "/home/filip/Desktop/IMA1/main.tex" "main.pdf" "main" 1740159382.07773 0
+["pdflatex"] 1740164810.58024 "/home/filip/Desktop/IMA1/main.tex" "main.pdf" "main" 1740164811.15823 0
   "/home/filip/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1740156444.90713 25678 aa7c8fd3909e804e7d85441c21595406 ""
   "/home/filip/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1740156764.0806 14064 33ab623bb129bb0d3d15424a1fa644ef ""
   "/home/filip/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1735255074.7389 8771578 c24ff9faeeef1b16e8675ed855c1c791 ""
@@ -37,6 +37,7 @@
   "/home/filip/.miktex/texmfs/install/tex/generic/bitset/bitset.sty" 1735318902.11205 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "/home/filip/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty" 1735318890.0839 8371 9d55b8bd010bc717624922fb3477d92e ""
   "/home/filip/.miktex/texmfs/install/tex/generic/iftex/iftex.sty" 1735318872.7677 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "/home/filip/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty" 1735318872.7677 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/home/filip/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty" 1735318884.46783 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "/home/filip/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty" 1735318897.68799 31769 002a487f55041f8e805cfbf6385ffd97 ""
   "/home/filip/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1735318877.14375 5412 d5a2436094cd7be85769db90f29250a6 ""
@@ -64,6 +65,8 @@
   "/home/filip/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1735310396.6955 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/home/filip/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty" 1735318893.51594 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/home/filip/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty" 1740155532.75617 29990 77f03852c52d930bb59b138193e67a0d ""
+  "/home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg" 1735568398.82902 1104 d237cad3f14be9fd91fe1f904d051a01 ""
+  "/home/filip/.miktex/texmfs/install/tex/latex/geometry/geometry.sty" 1735568398.82902 42759 e63af52ccddba7489ac0e17d6a3344bd ""
   "/home/filip/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg" 1735310390.64346 1224 978390e9c2234eab29404bc21b268d1e ""
   "/home/filip/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def" 1735310392.21947 19440 9da9dcbb27470349a580fca7372d454b ""
   "/home/filip/.miktex/texmfs/install/tex/latex/graphics/graphics.sty" 1735310389.15545 18363 dee506cb8d56825d8a4d020f5d5f8704 ""
@@ -87,13 +90,13 @@
   "/home/filip/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1735318905.80009 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/home/filip/.miktex/texmfs/install/tex/latex/tocbibind/tocbibind.sty" 1740155518.50231 8927 46f54e33fc9cef24f78ab3bc811cb63f ""
   "/home/filip/.miktex/texmfs/install/tex/latex/url/url.sty" 1735318899.60002 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "/home/filip/Desktop/IMA1/main.tex" 1740156866.03017 504 e4c975f3c7ce63364dcb00fbffe3c0ad ""
+  "/home/filip/Desktop/IMA1/main.tex" 1740164809.5721 613 86b8e44b205be06283abb7a51b73672d ""
   "abstrakt.tex" 1740156624.92898 24 d13d897b4ed32db6f701873315c867cf ""
-  "kap1/kap1.tex" 1740159381.12751 2118 ef34cca4f9bc44a256a31c1876e0ee42 ""
-  "main.aux" 1740159381.98358 612 80f025e33d4a6cfd9052541201c4a0ac "pdflatex"
-  "main.out" 1740159381.98358 514 706cc18dc47770cf4a45f6b5b01ae0cf "pdflatex"
-  "main.tex" 1740156866.03017 504 e4c975f3c7ce63364dcb00fbffe3c0ad ""
-  "main.toc" 1740159381.98358 286 f452e6fe72574b78653c42f90e4c515a "pdflatex"
+  "kap1/kap1.tex" 1740164566.13828 4541 14ef1655b41eb9a8e4783a1e32536651 ""
+  "main.aux" 1740164811.05611 1013 40385f8800cec61b378d2c813c938867 "pdflatex"
+  "main.out" 1740164811.05611 1107 8d38b341d32bdacf46a34122d0c8e466 "pdflatex"
+  "main.tex" 1740164809.5721 613 86b8e44b205be06283abb7a51b73672d ""
+  "main.toc" 1740164811.05611 564 349762b92376d5b6a43f4f48ca76dfa4 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

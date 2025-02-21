@@ -37,3 +37,52 @@ Pak \( M = \mathbb{N} \)
     \item \( \forall x \in \mathbb{R} : \frac{x}{+\infty} = \frac{x}{-\infty} = 0 \)
     \item \( |-\infty | = |+\infty | = +\infty \)
 \end{itemize}
+
+\newpage
+
+\subsection{Horní odhad a maximum množiny}
+Buď \( M \subset \mathbb{R}^* \). Každé číslo \( k \in \mathbb{R}^* \) takové, že \( \forall x \in M : x \leq k \), nazýváme \textbf{horním odhadem} množiny \( M \).
+
+\bigskip
+
+\noindent Existuje-li horní odhad množiny \( M \), ktorý je prvkem množiny \( M \), nazýváme jej \textbf{maximem} množiny \( M \) a značíme \( max M \).
+
+\subsection{Dolní odhad a minimum množiny}
+Buď \( M \subset \mathbb{R}^* \). Každé číslo \( l \in \mathbb{R}^* \) takové, že \( \forall x \in M : x \geq l \), nazýváme \textbf{dolním odhadem} množiny \( M \).
+
+\bigskip
+
+\noindent Existuje-li dolní odhad množiny \( M \), ktorý je prvkem množiny \( M \), nazýváme jej \textbf{minimem} množiny \( M \) a značíme \( min M \).
+
+\subsection{Supremum a infimum}
+Buď \( M \subset \mathbb{R}^* \). Číslo \( s \in \mathbb{R}^* \), pro něž platí:
+\begin{itemize}
+    \item \( \forall x \in M : x \leq s\) (tzn. že \( s \) je horním odhadem \( M \))
+    \item \( (\forall k \in \mathbb{R}^* , k < s)(\exists x \in M) : x > k \) (tzn. že žádné číslo menší než \( s \) není horním odhadem \( M \))
+\end{itemize}
+nazýváme \textbf{supremem} množiny \( M - s = sup M \). Jinak řečeno \( sup M \) je nejmenším horním odhadem množiny \( M \).
+
+\bigskip
+
+\noindent Buď \( M \subset \mathbb{R}^* \). Číslo \( i \in \mathbb{R}^* \), pro něž platí:
+\begin{itemize}
+    \item \( \forall x \in M : x \geq i\) (tzn. že \( i \) je dolním odhadem \( M \))
+    \item \( (\forall l \in \mathbb{R}^* , l > i)(\exists x \in M) : x < l \) (tzn. že žádné číslo větší než \( i \) není dolním odhadem \( M \))
+\end{itemize}
+nazýváme \textbf{infimem} množiny \( M - i = inf M \). Jinak řečeno \( inf M \) je největším dolním odhadem množiny \( M \).
+
+\bigskip
+
+\noindent \textbf{Omezené množiny:} \\
+Množinu \( M \subset \mathbb{R}^* \) nazveme:
+\begin{itemize}
+    \item \textbf{shora omezenou}, je-li \( sup M < +\infty \)
+    \item \textbf{zdola omezenou}, je-li \( inf M > -\infty \)
+    \item \textbf{omezenou}, je-li současně shora i zdola omezená
+    \item \textbf{neomezenou}, není-li omezená 
+\end{itemize}
+
+\bigskip
+
+\noindent \textbf{Věta o supremu:} \\
+Každá podmnožina \( \mathbb{R}^* \) má právě jedno supremum. Důsledkem má každá podmnožina \( \mathbb{R}^* \) má právě jedno infimum.
