@@ -19,4 +19,4 @@ Tento dokument je určený ako **pomôcka pri štúdiu** a obsahuje **zhrnutie t
 ---
 
 🎓 **Užitočné odkazy**:
-- [Web predmetu]([#](https://homel.vsb.cz/~bou10/MA_1/ma_1.html))
+- [Web predmetu](#https://homel.vsb.cz/~bou10/MA_1/ma_1.html)
