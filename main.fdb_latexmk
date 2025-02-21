@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740164810.58024 "/home/filip/Desktop/IMA1/main.tex" "main.pdf" "main" 1740164811.15823 0
+["pdflatex"] 1740165229.39496 "/home/filip/Desktop/IMA1/main.tex" "main.pdf" "main" 1740165229.97315 0
   "/home/filip/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1740156444.90713 25678 aa7c8fd3909e804e7d85441c21595406 ""
   "/home/filip/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1740156764.0806 14064 33ab623bb129bb0d3d15424a1fa644ef ""
   "/home/filip/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1735255074.7389 8771578 c24ff9faeeef1b16e8675ed855c1c791 ""
@@ -91,12 +91,12 @@
   "/home/filip/.miktex/texmfs/install/tex/latex/tocbibind/tocbibind.sty" 1740155518.50231 8927 46f54e33fc9cef24f78ab3bc811cb63f ""
   "/home/filip/.miktex/texmfs/install/tex/latex/url/url.sty" 1735318899.60002 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/filip/Desktop/IMA1/main.tex" 1740164809.5721 613 86b8e44b205be06283abb7a51b73672d ""
-  "abstrakt.tex" 1740156624.92898 24 d13d897b4ed32db6f701873315c867cf ""
+  "abstrakt.tex" 1740165228.97858 412 ed1205be101abaae52bb7fe787a2ef83 ""
   "kap1/kap1.tex" 1740164566.13828 4541 14ef1655b41eb9a8e4783a1e32536651 ""
-  "main.aux" 1740164811.05611 1013 40385f8800cec61b378d2c813c938867 "pdflatex"
-  "main.out" 1740164811.05611 1107 8d38b341d32bdacf46a34122d0c8e466 "pdflatex"
+  "main.aux" 1740165229.87095 908 f0425c5491264bf7177242904caf9c87 "pdflatex"
+  "main.out" 1740165229.87095 1024 d6c0a74145ac7c05dc530115f6441a8a "pdflatex"
   "main.tex" 1740164809.5721 613 86b8e44b205be06283abb7a51b73672d ""
-  "main.toc" 1740164811.05611 564 349762b92376d5b6a43f4f48ca76dfa4 "pdflatex"
+  "main.toc" 1740165229.87095 500 57b8eaceb201ebd02a099a7a68e1bdab "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.27)  21 FEB 2025 20:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.27)  21 FEB 2025 20:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -384,7 +384,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 l.32 \newpage
               [1
 
-] (abstrakt.tex)
+] (abstrakt.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+)
 
 [2] (kap1/kap1.tex
 
@@ -401,20 +411,20 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8D38B341D32BDACF46A34122D0C8E466;1107.
+(rerunfilecheck)             Checksum: D6C0A74145AC7C05DC530115F6441A8A;1024.
  ) 
 Here is how much of TeX's memory you used:
- 11049 strings out of 475585
- 172846 string characters out of 5769764
+ 11050 strings out of 475585
+ 172852 string characters out of 5769764
  657856 words of memory out of 5000000
- 33758 multiletter control sequences out of 15000+600000
+ 33759 multiletter control sequences out of 15000+600000
  567775 words of font info for 73 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  79i,6n,93p,289b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/filip/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/filip/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (5 pages, 112565 bytes).
+Output written on main.pdf (5 pages, 113535 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
